@@ -13,12 +13,10 @@
   float: right;
   padding: 0 0 10px 10px; /* note the padding around a right floated image */
 }
-
 .alignleft {
   float: left;
   padding: 0 10px 10px 0; /* note the padding around a left floated image */
 }
-
 body {
   color: #f0efef;
   font-size: 26px;
@@ -30,24 +28,19 @@ body {
 a {
   text-decoration: none;
 }
-
 .container {
   width: 960px;
   margin: 0 auto;
 }
-
 .logo {
   font-size: 48px;
   font-weight: 800;
 }
-
 header {
   height: 950px;
   background: url(http://ahdzbook.com/data/out/103/hdwp695723780.jpg) no-repeat top center #131e27;
   padding-top: 32px;
 }
-
-
 header .logo {
   color: #fff;
 }
@@ -136,11 +129,9 @@ footer p {
   color: #E03A59;
   font-weight: 600;
 }
-
 img {
   width: 7%;
 }
-
 a:hover {
   color: #0a3fff;
 }
